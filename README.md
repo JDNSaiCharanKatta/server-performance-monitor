@@ -2,7 +2,7 @@
 
 A Production-Ready Linux Server Monitoring Tool built using **Bash Shell Scripting**.
 
-This project monitors the overall health of a Linux server including CPU, Memory, Disk, Network, Docker, Kubernetes, Security, Filesystem, and System Health. It can generate both **Text** and **HTML reports** for administrators.
+This project monitors the overall health of a Linux server including CPU, Memory, Disk, Network, Docker, Security, Filesystem, and System Health. It can generate both **Text** and **HTML reports** for administrators.
 
 ---
 

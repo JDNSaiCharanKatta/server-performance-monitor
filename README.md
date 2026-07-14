@@ -394,7 +394,7 @@ See the LICENSE file for details.
 Linux | DevOps | AWS | Docker | Shell Scripting
 
 ---
-
+Project URL: https://github.com/JDNSaiCharanKatta/server-performance-monitor/
 # Support
 
 If you find this project useful, please consider giving it a ⭐ on GitHub.

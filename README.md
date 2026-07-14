@@ -68,7 +68,6 @@ server-performance-monitor/
 ├── logs/
 │     └── server-monitor.log
 │
-├── screenshots/
 │
 ├── README.md
 ├── LICENSE
@@ -341,25 +340,6 @@ Health Check : PASSED
 
 ---
 
-# Screenshots
-
-Store screenshots in
-
-```
-screenshots/
-```
-
-Suggested screenshots
-
-- Dashboard
-- CPU Monitoring
-- Memory Monitoring
-- Disk Monitoring
-- Docker Monitoring
-- HTML Report
-
----
-
 # Future Enhancements
 
 - Email Alerts
@@ -409,9 +389,9 @@ See the LICENSE file for details.
 
 # Author
 
-**Your Name**
+**K J D N Sai Charan**
 
-Linux | DevOps | AWS | Docker | Kubernetes | Shell Scripting
+Linux | DevOps | AWS | Docker | Shell Scripting
 
 ---
 
